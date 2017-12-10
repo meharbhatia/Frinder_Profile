@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293869424324",
+    "firebase_url": "https://loginappfrinder.firebaseio.com",
+    "project_id": "loginappfrinder",
+    "storage_bucket": "loginappfrinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293869424324:android:a831c6af202bd8f0",
+        "android_client_info": {
+          "package_name": "com.example.manasithegr8.frindrprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293869424324-ohj0t3uioe5773oos0lni5lq7mej8frq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BBqYxzK4XzGWTkPRSALTlssYwe8JTvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

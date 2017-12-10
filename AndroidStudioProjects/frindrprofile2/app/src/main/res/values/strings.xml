@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">frindrprofile</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="profile_name">Manasi Mittal</string>
+    <string name="branch">Computersc</string>
+
+    <string name="menu_profile">Profile</string>
+
+
+    <string name="menu_online">Online</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="profile_names">Display name</string>
+    <string name="profileof">Manasi Mittal</string>
+
+    <string name="edit_profile_name">Name</string>
+    <string name="edit_profile_branch">Branch</string>
+    <string name="edit_profile_phone">Phone number</string>
+    <string name="edit_profile_interest1">Interest1</string>
+    <string name="edit_profile_interest2">Interest2</string>
+    <string name="edit_profile_interest3">Interest3</string>
+    <string name="select_date">Date</string>
+    <string name="save_edit">Save edit</string>
+
+</resources>
+
